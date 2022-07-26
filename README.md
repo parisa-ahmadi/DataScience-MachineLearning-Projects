@@ -6,6 +6,8 @@ Zero to Hero in DS/ML/AI , DataScience, Machine Learning, Artificial Intelligenc
 💎 I am skilled in data science tools like python programming language and its critical packages e.g Pandas, Numpy, Sklearn and so on .. 
 also an expert in machine learning (ML) algorithms.Check out the links below..
 
+![Imgur](https://humanativaspa.it/wp-content/uploads/2021/05/HN_machine_learning_ist.jpg)
+
 My links:
 
 Medium: https://medium.com/@parisan.ahmadi
