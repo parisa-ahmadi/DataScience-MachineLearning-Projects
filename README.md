@@ -14,7 +14,7 @@ My links:
 
 Medium: https://medium.com/@parisan.ahmadi
 
-Kaggle: https://www.kaggle.com/parisanahmadi/code
+Kaggle: https://www.kaggle.com/parisanahmadi
 
 Linkedin: https://www.linkedin.com/in/parisan-ahmadi-1410a0a9/
 
