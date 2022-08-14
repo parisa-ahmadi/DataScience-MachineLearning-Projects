@@ -20,7 +20,7 @@ Linkedin: https://www.linkedin.com/in/parisan-ahmadi-1410a0a9/
 
 Twitter: https://twitter.com/parisan_ahmadi
 
-instagram: https://www.instagram.com/parisan.ahmadi/?hl=en
+Instagram: https://www.instagram.com/parisan.ahmadi/?hl=en
 
 
 
